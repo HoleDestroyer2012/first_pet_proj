@@ -1,3 +1,2 @@
-import { fn } from "./test";
-
-fn(123)
+import {fn} from "./test"
+fn(456)
