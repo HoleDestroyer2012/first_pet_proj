@@ -9,11 +9,12 @@ export interface BuildPath {
 
 export interface BuildEnv {
     mode: BuildMode;
-    port: number
+    port: number;
 }
 
 export interface BuildOptions {
     mode: BuildMode;
     paths: BuildPath;
     port: number;
+    isDev?: boolean;
 }
