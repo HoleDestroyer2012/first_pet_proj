@@ -1,7 +1,12 @@
 {
     "Текстовый перевод": "Text translation",
     "Язык": "English",
-    "О сайте": "About page",
+    "О сайте страница": "About page",
     "Главная страница": "Main page",
-    "Страница не найдена": "Not found page"
+    "Страница не найдена": "Not found page",
+    "Произошла непредвиденная ошибка": "An unexpected error occurred",
+    "Обновить страницу": "Reload the page",
+    "Короткий язык": "En",
+    "Главная": "Main",
+    "О сайте" : "About"
 }
