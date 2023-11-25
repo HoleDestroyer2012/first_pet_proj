@@ -8,10 +8,10 @@ import { Sidebar } from "widgets/Sidebar";
 
 export const App = () => {
     const { theme, toggleTheme } = useTheme();
+
     return (
         <div className={classNames("app", {}, [theme])}>
             <Suspense fallback="">
-                
                 <Navbar />
                 <div className="content-page">
                     <Sidebar />
